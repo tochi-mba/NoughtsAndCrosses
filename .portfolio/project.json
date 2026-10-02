@@ -1,0 +1,11 @@
+{
+  "$schema": "https://tochi-mba.github.io/schema/project.schema.json",
+  "slug": "noughts-and-crosses",
+  "name": "Noughts and Crosses",
+  "tagline": "A WinForms noughts and crosses game, written with matrices.",
+  "stack": ["C#"],
+  "category": "early",
+  "status": "archived",
+  "order": 750,
+  "display": true
+}
